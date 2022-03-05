@@ -1,7 +1,7 @@
-def translate_roman_to_decimal(n):
+def from_roman(n: str) -> int:
     pass
 
-def translate_decimal_to_roman(n):
+def to_roman(n: int) -> str:
     pass
 
 if __name__ == "__main__":
